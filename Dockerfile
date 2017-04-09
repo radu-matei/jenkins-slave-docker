@@ -1,4 +1,4 @@
-FROM jenkinsci/slave:alpie
+FROM jenkinsci/slave:alpine
 
 USER root
 RUN apk add --no-cache \
