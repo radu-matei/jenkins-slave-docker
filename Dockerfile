@@ -1,5 +1,4 @@
-FROM jenkinsci/slave:alpine
-MAINTAINER Nicolas De Loof <nicolas.deloof@gmail.com>
+FROM jenkinsci/slave:alpie
 
 USER root
 RUN apk add --no-cache \
