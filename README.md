@@ -1,4 +1,4 @@
-# Jenkins Slave with Docker clint and `kubectl` CLI
+# Jenkins Slave with Docker client and `kubectl` CLI
 
 Custom Jenkins JNLP slave for the [Kubernetes Plugin for Jenkins](github.com/jenkinsci/kubernetes-plugin) based on the [official JNLP agent image from Jenkins](https://github.com/jenkinsci/docker-jnlp-slave).
 
