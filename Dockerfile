@@ -4,6 +4,7 @@ USER root
 RUN apk add --no-cache \
 ca-certificates \
 curl \
+curl-dev \
 openssl
 
 ENV DOCKER_BUCKET download.docker.com
